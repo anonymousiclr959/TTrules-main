@@ -35,9 +35,13 @@ Our main contributions:
 
 ## Building
 
-The code needs python >= 3.7, and has only been tested on Ubuntu 18.04.2 LTS. The code is known to work with pytorch 1.5.0. Please insatll the requirements.
+We do not provide the code for training or generating the rules - only the rules themselves for all datasets and all models. The rest will come after the paper is accepted. 
 
 ## Usage
 
 The rules can be downloaded [here](https://drive.google.com/drive/folders/XXX).
+
+## Use case
+
+XXX provides the use case.
 
