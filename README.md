@@ -39,9 +39,12 @@ We do not provide the code for training or generating the rules - only the rules
 
 ## Usage
 
-The rules can be downloaded [here](https://drive.google.com/drive/folders/XXX).
+The rules can be downloaded here for [Adult](https://drive.google.com/file/d/1-TP_mFDv3aGi77LWUIK83-CE9Zx2v8ZD/view?usp=sharing), [Compas](https://drive.google.com/file/d/1TzU1rKJL6gFy55zxELvWtF5_VlkBht6g/view?usp=sharing), [Cancer](https://drive.google.com/file/d/1d3r7pvobzcX_Q9piPIG3bXYklmINjYs3/view?usp=sharing), [Diabetes](https://drive.google.com/file/d/1GU3-7ce9WLsyV0EnTdLGdiwiFkMt5bSr/view?usp=sharing).
 
 ## Use case
 
 XXX provides the use case.
 
+## Results
+
+Details results can be found into *.csv
