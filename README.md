@@ -43,7 +43,7 @@ The rules can be downloaded here for [Adult](https://drive.google.com/file/d/1-T
 
 ## Use case
 
-XXX provides the use case.
+The excel file adult_testset_fold_3_RulesUseCase.xlsx provides the use case.
 
 ## Results
 
